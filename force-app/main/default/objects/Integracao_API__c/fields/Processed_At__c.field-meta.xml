@@ -1,0 +1,5 @@
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>Processed_At__c</fullName>
+  <label>Processado em</label>
+  <type>DateTime</type>
+</CustomField>
